@@ -6,12 +6,6 @@ namespace Metotlar
     {
         static void Main(string[] args)
         {
-            
-
-            string urunAdi2 = "Kavun";
-            double fiyatı2 = 15;
-            string aciklama2 = "Amasya elması";
-
             Urun urun1 = new Urun();
             urun1.Adi = "Elma";
             urun1.Fiyati = 15;

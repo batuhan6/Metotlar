@@ -8,7 +8,7 @@ namespace Metotlar
     {
         public void ekle(Urun urun)
         {
-            Console.WriteLine("Sepete eklendi" + urun.Adi); 
+            Console.WriteLine("Sepete eklendi " + urun.Adi); 
         }
     }
 }
